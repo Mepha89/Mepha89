@@ -7,11 +7,11 @@
     </a>
 <br/>
 
-* 👀 Seeking a Software internship/co-op for Winter 2024 ❄️
+* 👀 Seeking a **Software** internship/co-op for Winter 2024 ❄️
 
-* 📖 Pursuing Bachelors in Computer Engineering @ [Memorial University of Newfoundland and Labrador](https://www.mun.ca/undergrad/programs/engineering/computer-engineering/). 
+* 📖 Pursuing Bachelors in **Computer Engineering** @ [Memorial University of Newfoundland and Labrador](https://www.mun.ca/undergrad/programs/engineering/computer-engineering/). 
 
-* 💻 Currently working on Full-Stack Application and Machine Learning projects.
+* 💻 Currently working on **Full-Stack** Application and **Machine Learning** projects.
 
 * 🔭 I love video games, Sci-Fi TV movies and shows, and coding.
 
