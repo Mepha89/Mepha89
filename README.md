@@ -15,6 +15,4 @@
 
 * 🔭 I love video games, Sci-Fi TV movies and shows, and coding.
 
-* 💡 Open to collaborating on projects and innovative ideas. 
-
-* 📫 Reach me on umamar@mun.ca
+* 💡 Open to collaborating on projects and innovative ideas.
