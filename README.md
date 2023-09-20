@@ -3,7 +3,7 @@
 -->
 <p align="center">
     <a href="https://github.com/Mepha89">
-        <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&duration=2000&pause=100&color=0DBFF7&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Umama+Rahman;Computer+Engineering+Student+%7C+Software+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&duration=2000&pause=100&color=0DBFF7&center=true&vCenter=true&repeat=false&multiline=true&width=500&height=80&lines=Umama+Rahman;Computer+Engineering+Student+%7C+Software+Developer" alt="Typing SVG" />
     </a>
 <br/>
 
