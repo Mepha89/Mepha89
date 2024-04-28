@@ -7,7 +7,7 @@
     </a>
 <br/>
 
-* 👀 Seeking a **Software** internship/co-op for Summer 2024 ☀️
+* 👀 Seeking a **Software** Engineer/Developer Full-time position for 2025☀️
 
 * 📖 Pursuing Bachelors in **Computer Engineering** @ [Memorial University of Newfoundland and Labrador](https://www.mun.ca/undergrad/programs/engineering/computer-engineering/). 
 
